@@ -1,0 +1,18 @@
+.skills-container {
+  /* background-color: blue; */
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.skills {
+  /* background-color: olive; */
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.skills img {
+  margin-left: 25px;
+}

@@ -6,7 +6,6 @@ export default function Projects() {
   return (
 
     <section className='home'>
-
       <div className='projects'>
         <div className='project-card'>
           <button>See Project</button>
